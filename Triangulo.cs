@@ -1,4 +1,5 @@
-﻿namespace blogAPI {
+﻿namespace POO
+    {
     class Triangulo {
 
         public double A;

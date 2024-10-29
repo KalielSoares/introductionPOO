@@ -1,9 +1,6 @@
-﻿
-using blogAPI;
-
-namespace Course {
+﻿namespace POO {
     class Program {
-        static void Main(string[] args) {
+        static void Main2(string[] args) {
 
             Triangulo x, y;
 
